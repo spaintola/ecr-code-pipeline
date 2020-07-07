@@ -4,7 +4,7 @@
         "containerDefinitions": [
             {
                 "name": "nodeapp",
-                "image": "897913520775.dkr.ecr.us-east-1.amazonaws.com/node-app:latest",
+                "image": "<IMAGE1_NAME>",
                 "cpu": 128,
                 "memoryReservation": 128,
                 "portMappings": [

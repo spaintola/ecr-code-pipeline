@@ -34,6 +34,7 @@ phases:
       - cat imagedefinitions.json 
 artifacts:
     files:
-        - imagedefinitions.json
-        - appspec.json
-        - taskdef.json
+        - /imagedefinitions.json
+        - /appspec.yaml
+        - /taskdef.json
+        - /imagedetail.json
